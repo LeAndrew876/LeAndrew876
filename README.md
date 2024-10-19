@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Le-Andrew</h1>
 <h3 align="center">Computer Science Student at The University of The District of Columbia.</h3>
 
-- 🔭 I’m currently working on 
+- 🔭 I’m currently working on **Rag**
 
 - 🌱 I’m currently learning **Human Computer Interaction**
 
-- 💬 Ask me about **RAG**
+- 💬 Ask me about **Cloud Computing**
 
 <h3>About Me</h3>
 <p>
